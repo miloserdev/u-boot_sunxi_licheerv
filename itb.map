@@ -1,0 +1,7 @@
+ImagePos    Offset      Size  Name
+00000000  00000000  000aee99  main-section
+00000000   00000000  000aee99  fit
+00000134    00000134  00087ce8  uboot
+00000134     00000000  00087ce8  blob-ext
+00087ed4    00087ed4  0001dbc8  opensbi
+00087ed4     00000000  0001dbc8  opensbi
